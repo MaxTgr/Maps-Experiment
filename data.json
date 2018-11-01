@@ -1,0 +1,9 @@
+[
+    {
+        "nome": "place",
+        "status": "nok",
+        "longitude": -47.89393533469024,
+        "latitude": -15.78358967387089,
+        "icone": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+    } 
+]
